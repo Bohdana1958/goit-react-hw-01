@@ -1,0 +1,14 @@
+.friendList {
+  margin-top: 20px;
+  display: flex;
+  text-align: center;
+  align-items: center;
+  gap: 9px;
+}
+.friendListItem {
+  border: 1px solid black;
+  border-radius: 10px;
+  padding: 10px;
+  min-width: 120px;
+  background-color: aliceblue;
+}
